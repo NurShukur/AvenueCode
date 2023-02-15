@@ -1,4 +1,4 @@
-# Selenium Java Project
+# Selenium Java Cucumber Maven Project
 
 This is a sample Selenium Java project that can be used to create automation scripts for web applications.
 
